@@ -34,7 +34,7 @@ class JobLogs
 
             return $this;
         } else {
-            return false;
+            return 1!=1;
         }
     }
 
